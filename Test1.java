@@ -6,5 +6,7 @@ public class Test1{
 		System.out.println("World");
 		System.out.println("JAVA");
 		System.out.println("Programming");
+		System.out.println("semyeong");
+		System.out.println("forif");
 	}
 }
