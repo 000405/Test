@@ -8,6 +8,6 @@
 		System.out.println("Programming");
 		System.out.println("semyeong");
 		System.out.println("forif");
-//작성자: 김태희
+//작성자: 김지섭
 	}
 }
